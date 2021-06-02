@@ -6,5 +6,6 @@ Like lolita500 but better. This will report the correct clock values via the ksc
 Based on PSVShell
 
 # Credits
-Electry for PSVShell
 @dots-db (and a lot of others) for LOLIcon
+Electry for PSVShell
+
