@@ -7,3 +7,4 @@ Based on PSVShell
 
 # Credits
 Electry for PSVShell
+@dots-db (and a lot of others) for LOLIcon
